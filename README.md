@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Edward sila 👋</h1>
 <p align="center">
- <!--- <a href="https://www.linkedin.com/in/emanuel-marshal/">LinkedIn</a> •
-  <a href="https://twitter.com/emanuelmarshal">Twitter</a> --->
+ <a href="https://www.linkedin.com/in/edward-sila-a8a262242">LinkedIn</a> •
+  <a href=" ">Twitter</a>
 </p>
 
 ---
