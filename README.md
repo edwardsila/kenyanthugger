@@ -16,8 +16,8 @@ An aspiring software engineer with a passion for crafting elegant solutions to c
 </p>
 <p align="center">
 	currently pursuing my course at:
-![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 </p>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 ---
 
