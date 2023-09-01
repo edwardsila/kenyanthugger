@@ -14,10 +14,8 @@ An aspiring software engineer with a passion for crafting elegant solutions to c
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL badge" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C badge" />
 </p>
-<p align="center">
-	currently pursuing my course at:
-</p>
-![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+## current learnig enviroment
+![ALX logo](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 ---
 
